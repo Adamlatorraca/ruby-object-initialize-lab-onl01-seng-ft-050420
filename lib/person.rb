@@ -3,3 +3,5 @@ class Person
     @name = name
   end
 end
+
+Person.new("Adam")
