@@ -6,3 +6,4 @@ class Dog
 end
 
 Fido = Dog.new("Pug")
+fido.breed
